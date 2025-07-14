@@ -9,7 +9,7 @@ I'm currently honing my skills in **Spring Boot**, **PostgreSQL**, **systems mon
 ## 💼 About me
 
 - 🎯 Development **Java Web with Spring Boot**
-- 🐧 knowledge in **Linux server administration**
+- 🐧 Knowledge in **Linux server administration**
 - 📚 Constantly learning about **best practices, testing and clean architecture**
 - 💡 I create projects that combine clean code, purpose and usability
 
