@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, welcome to my profile!
 
-<!--
-**devmegusta/devmegusta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gustavo Silva, and I'm a backend programmer focused on **Java Web development** and **Linux server administration and management.**
 
-Here are some ideas to get you started:
+I'm currently honing my skills in **Spring Boot**, **PostgreSQL**, **systems monitoring**, and best **development practices**, aiming to build **robust**, **scalable**, and **efficient solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+## 💼 About me
+
+- 🎯 Development **Java Web with Spring Boot**
+- 🐧 knowledge in **Linux server administration**
+- 📚 Constantly learning about **best practices, testing and clean architecture**
+- 💡 I create projects that combine clean code, purpose and usability
+
+---
+
+## 🛠️ Technologies and tools
+
+| Lenguages | Frameworks & Databases | Tools |
+|-----------|-----------------------------|-------------|
+| Java • Python • SQL | Spring Boot • JPA • PostgreSQL • Oracle Database| Git • Linux • IntelliJ • Docker • Postman • Grafana|
+
+---
+
+
+
+## 📫 How to find me
+
+- 📧 E-mail: gustavosilva0340@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/gustavoalves](https://linkedin.com/in/gustavoalves)
+
+
+
+Thank you for visiting my profile! I'm always open to new learning experiences, partnerships, and professional challenges. 
