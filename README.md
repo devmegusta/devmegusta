@@ -29,7 +29,7 @@ I'm currently honing my skills in **Spring Boot**, **PostgreSQL**, **systems mon
 ## 📫 How to find me
 
 - 📧 E-mail: gustavosilva0340@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/gustavoalves](https://linkedin.com/in/gustavoalves)
+- 💼 LinkedIn: [linkedin.com/in/gustavoalves](in/gustavo-alves-0b48a12b5)
 
 
 
