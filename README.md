@@ -26,8 +26,6 @@ I'm currently honing my skills in **Spring Boot**, **PostgreSQL**, **systems mon
 
 ---
 
-
-
 ## 📫 How to find me
 
 - 📧 E-mail: gustavosilva0340@gmail.com
