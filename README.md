@@ -1,7 +1,7 @@
 # 👋 Hello, welcome to my profile! 
 
 
-My name is Gustavo Silva and I am a backend programmer focused on **Java web development** with creations of **REST** and **RESTFull APIs**
+My name is Gustavo Silva and I am a backend programmer focused on **Java web development** with creations of **REST** and **RESTFul APIs**
 
 I'm currently honing my skills in **Spring Boot**, **PostgreSQL**, **systems monitoring**, and best **development practices**, aiming to build **robust**, **scalable**, and **efficient solutions**.
 
